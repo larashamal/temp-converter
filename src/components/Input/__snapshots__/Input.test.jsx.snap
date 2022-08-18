@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="flex flex-col gap-y-1"
+>
+  <label
+    htmlFor=""
+  />
+  <input
+    className="w-36 rounded border border-black bg-purple-300"
+    id=""
+    onChange={[Function]}
+    type="number"
+    value={0}
+  />
+</div>
+`;
